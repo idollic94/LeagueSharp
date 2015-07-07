@@ -1,0 +1,13 @@
+C:\Users\Kyle\Documents\GitHub\LeagueSharp\SethMalphite\bin\Debug\SethMalphite.exe.config
+C:\Users\Kyle\Documents\GitHub\LeagueSharp\SethMalphite\obj\Debug\SethMalphite.csprojResolveAssemblyReference.cache
+C:\Users\Kyle\Documents\GitHub\LeagueSharp\SethMalphite\bin\Debug\SethMalphite.exe
+C:\Users\Kyle\Documents\GitHub\LeagueSharp\SethMalphite\bin\Debug\SethMalphite.pdb
+C:\Users\Kyle\Documents\GitHub\LeagueSharp\SethMalphite\bin\Debug\LeagueSharp.Common.dll
+C:\Users\Kyle\Documents\GitHub\LeagueSharp\SethMalphite\bin\Debug\LeagueSharp.dll
+C:\Users\Kyle\Documents\GitHub\LeagueSharp\SethMalphite\bin\Debug\SharpDX.Direct3D9.dll
+C:\Users\Kyle\Documents\GitHub\LeagueSharp\SethMalphite\bin\Debug\SharpDX.dll
+C:\Users\Kyle\Documents\GitHub\LeagueSharp\SethMalphite\bin\Debug\clipper_library.dll
+C:\Users\Kyle\Documents\GitHub\LeagueSharp\SethMalphite\bin\Debug\LeagueSharp.Sandbox.dll
+C:\Users\Kyle\Documents\GitHub\LeagueSharp\SethMalphite\bin\Debug\LeagueSharp.xml
+C:\Users\Kyle\Documents\GitHub\LeagueSharp\SethMalphite\obj\Debug\SethMalphite.exe
+C:\Users\Kyle\Documents\GitHub\LeagueSharp\SethMalphite\obj\Debug\SethMalphite.pdb
